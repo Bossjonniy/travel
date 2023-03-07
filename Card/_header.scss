@@ -1,0 +1,16 @@
+header {
+  background-color: white;
+  padding: 30px 30px;
+  width: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 100px;
+}
+header button {
+  width: 100px;
+  height: 40px;
+  background-color: green;
+  border-radius: 10px;
+  border: none;
+}
